@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Projekt.Data.Data.CMS.Opinie>
+
+<section>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-11 col-lg-6 col-xl-4 col-xxl-3">
+              <h4 class="text-danger text-uppercase"><br /><br />@foreach(var opinia in Model) @opinia.Naglowek1Opini </h4>
+              <h1 class="font-cursive fw-normal mb-5">@foreach(var opinia in Model) @opinia.Naglowek2Opini </h1>
+            </div>
+            <div class="col-xxl-9">
+              <div class="position-relative offset-9 offset-sm-10 offset-lg-11 mb-3"><a class="carousel-control-prev carousel-icon z-index-2" href="#carouselExampleDark" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next carousel-icon z-index-2" href="#carouselExampleDark" role="button" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a></div>
+              <div class="carousel slide" id="carouselExampleDark" data-bs-ride="carousel">                 
+                <div class="carousel-inner">
+                  <div class="carousel-item active" data-bs-interval="5000">
+                    <div class="row h-100 mx-1 mb-5 mt-3 gx-md-2 gx-lg-4">
+                         @foreach(var opinia in Model)
+                              {
+                              <div class="col-md-4 mb-5 mb-md-0">
+                                <div class="card card-span h-100 shadow-primary">
+                                  <div class="card-body my-3">
+                                    <p class="mb-0 px-3 px-md-2 px-xxl-3">@opinia.TrescOpini</p>
+                                    <div class="align-items-xl-center d-block d-xl-flex px-3 mt-3 align-self-end"><img class="img-fluid me-3 me-md-2 me-lg-3" src="~/lib/traffico/public/assets/img/gallery/isak.png" width="50" alt="" />
+                                      <div class="flex-1 align-items-center pt-2">
+                                        <h6 class="mb-0">@opinia.ImieINazwiskoDodajacego</h6>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              }
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+</section>
+

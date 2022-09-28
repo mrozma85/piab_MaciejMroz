@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projekt.PortalWWW
+build_property.RootNamespace = Projekt.PortalWWW
+build_property.ProjectDir = C:\Users\mrozm\Desktop\piab_MaciejMroz\Projekt.PortalWWW\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mrozm\Desktop\piab_MaciejMroz\Projekt.PortalWWW
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Home/CzymSieZajmujemy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDenltU2llWmFqbXVqZW15LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Home/Kontakt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLb250YWt0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Home/Opinie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcGluaWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Home/PytaniaIOdpowiedzi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQeXRhbmlhSU9kcG93aWVkemkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Koszyk/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zenlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Oferta/Component/OfertaMenuComponent/OfertaMenuComponent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXENvbXBvbmVudFxPZmVydGFNZW51Q29tcG9uZW50XE9mZXJ0YU1lbnVDb21wb25lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Oferta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Oferta/Szczegoly.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXFN6Y3plZ29seS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Shared/NawigacjaLinki.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hd2lnYWNqYUxpbmtpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Shared/RodzajeOfert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJvZHphamVPZmVydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Shared/_KoszykLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Lb3N6eWtMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Shared/_OfertaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PZmVydGFMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.PortalWWW/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-611g9o910r

@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Projekt.Intranet</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Projekt.Intranet.styles.css" asp-append-version="true" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="~/lib/traffico/public/assets/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/lib/traffico/public/assets/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/lib/traffico/public/assets/img/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/x-icon" href="~/lib/traffico/public/assets/img/favicons/favicon.ico">
+    <link rel="manifest" href="~/lib/traffico/public/assets/img/favicons/manifest.json">
+    <meta name="msapplication-TileImage" content="~/lib/traffico/public/assets/img/favicons/mstile-150x150.png">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm bg-danger navbar-dark" data-navbar-on-scroll="data-navbar-on-scroll">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Zarządzanie portalem Zabex</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>                               
+                    @await Html.PartialAsync("Portal",null)
+            </div>
+          </nav>
+
+                @*
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item px-2"><a class="nav-item px-2"><a class="nav-link fw-medium active" asp-area="" asp-controller="Nawigacja" asp-action="Index">Nawigacja</a>
+                        </li>
+                        <li class="nav-item px-2"><a class="nav-item px-2"><a class="nav-link fw-medium active" asp-area="" asp-controller="CzymSieZajmujemies" asp-action="Index">Czym sie zajmujemy</a>
+                        </li>
+                        <li class="nav-item px-2"><a class="nav-item px-2"><a class="nav-link fw-medium active" asp-area="" asp-controller="Kontakt" asp-action="Index">Kontakt</a>
+                        </li>
+                        <li class="nav-item px-2"><a class="nav-item px-2"><a class="nav-link fw-medium active" asp-area="" asp-controller="Opinie" asp-action="Index">Opinie</a>
+                        </li>
+                        <li class="nav-item px-2"><a class="nav-item px-2"><a class="nav-link fw-medium active" asp-area="" asp-controller="PytaniaIOdpowiedzi" asp-action="Index">Pytania i odpowiedzi</a>
+                        </li>
+                    </ul>
+                    *@
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script src="~/lib/traffico/public/vendors/popperjs/popper.min.js"></script>
+    <script src="~/lib/traffico/public/vendors/is/is.min.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
+    <script src="~/lib/traffico/public/vendors/fontawesome/all.min.js"></script>
+    <script src="~/lib/traffico/public/assets/js/theme.js"></script>
+</body>
+</html>

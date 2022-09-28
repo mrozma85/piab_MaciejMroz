@@ -1,0 +1,236 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projekt.Intranet
+build_property.RootNamespace = Projekt.Intranet
+build_property.ProjectDir = C:\Users\mrozm\Desktop\piab_MaciejMroz\Projekt.Intranet\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mrozm\Desktop\piab_MaciejMroz\Projekt.Intranet
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/CzymSieZajmujemies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3p5bVNpZVpham11amVtaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/CzymSieZajmujemies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3p5bVNpZVpham11amVtaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/CzymSieZajmujemies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3p5bVNpZVpham11amVtaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/CzymSieZajmujemies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3p5bVNpZVpham11amVtaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/CzymSieZajmujemies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3p5bVNpZVpham11amVtaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Kontakt/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29udGFrdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Kontakt/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29udGFrdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Kontakt/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29udGFrdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Kontakt/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29udGFrdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Kontakt/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29udGFrdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Nawigacja/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF3aWdhY2phXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Nawigacja/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF3aWdhY2phXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Nawigacja/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF3aWdhY2phXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Nawigacja/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF3aWdhY2phXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Nawigacja/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF3aWdhY2phXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Ofertas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Ofertas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Ofertas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Ofertas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Ofertas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Opinie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BpbmllXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Opinie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BpbmllXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Opinie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BpbmllXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Opinie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BpbmllXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Opinie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BpbmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/PytaniaIOdpowiedzis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHl0YW5pYUlPZHBvd2llZHppc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/PytaniaIOdpowiedzis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHl0YW5pYUlPZHBvd2llZHppc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/PytaniaIOdpowiedzis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHl0YW5pYUlPZHBvd2llZHppc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/PytaniaIOdpowiedzis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHl0YW5pYUlPZHBvd2llZHppc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/PytaniaIOdpowiedzis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHl0YW5pYUlPZHBvd2llZHppc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/RodzajTransportu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqVHJhbnNwb3J0dVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/RodzajTransportu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqVHJhbnNwb3J0dVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/RodzajTransportu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqVHJhbnNwb3J0dVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/RodzajTransportu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqVHJhbnNwb3J0dVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/RodzajTransportu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqVHJhbnNwb3J0dVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Shared/Portal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBvcnRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Shared/RodzajeTytul.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJvZHphamVUeXR1bC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Shared/_Layout_intranet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfaW50cmFuZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Stopka/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcGthXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Stopka/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcGthXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Stopka/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcGthXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Stopka/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcGthXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Stopka/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcGthXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/StronaGlownas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hR2xvd25hc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/StronaGlownas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hR2xvd25hc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/StronaGlownas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hR2xvd25hc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/StronaGlownas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hR2xvd25hc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/StronaGlownas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hR2xvd25hc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrozm/Desktop/piab_MaciejMroz/Projekt.Intranet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-faztdmkjqd

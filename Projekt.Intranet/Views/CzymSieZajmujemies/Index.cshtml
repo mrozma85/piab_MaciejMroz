@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Projekt.Data.Data.CMS.CzymSieZajmujemy>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LinkCzymSieZajmujemy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TytulCzymSieZajmujemy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tresc1CzymSieZajmujemy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tresc2CzymSieZajmujemy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pozycja)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LinkCzymSieZajmujemy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TytulCzymSieZajmujemy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tresc1CzymSieZajmujemy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tresc2CzymSieZajmujemy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pozycja)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdCzymSieZajmujemy">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdCzymSieZajmujemy">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdCzymSieZajmujemy">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

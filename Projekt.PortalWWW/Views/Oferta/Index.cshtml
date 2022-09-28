@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Projekt.Data.Data.Oferta.RodzajTransportu>
+
+@{ 
+	ViewData["Title"]  = "Oferta";
+	Layout="~/Views/Shared/_OfertaLayout.cshtml"; 
+}
+
+ @foreach(var usluga in Model)
+ {
+ <div class="row h-100 mx-1 mb-5 mt-3 gx-md-2 gx-lg-4">            
+    <div class="col-md-4 mb-5 mb-md-0">
+                            <div class="card card-span h-100 shadow-primary">
+                              <div class="card-body my-3">
+                                <p class="mb-0 px-3 px-md-2 px-xxl-3" >@usluga.Nazwa</p>
+                                <div class="align-items-xl-center d-block d-xl-flex px-3 mt-3 align-self-end">
+                                  <div class="flex-1 align-items-center pt-2">
+                                    <h6 class="mb-0">@usluga.Cena.ToString("0.00") € </h6>
+                                  </div>                                  
+                                  <form class="ps-lg-5"> 
+                                      <a class="btn btn-primary order-1 order-lg-0" asp-action="DodajDoKoszyka" asp-controller="Koszyk" asp-route-id="@usluga.IdRodzajuTransportu">Dodaj do koszyka</a>
+                                  </form>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                      </div>
+}

@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Projekt.Data.Data.Oferta.Oferta>
+
+        <div class="container"><a class="navbar-brand" href="Index.html"><img src="~/lib/traffico/public/assets/img/gallery/zabexlogo.jpg" height="120" alt="..." /></a>                
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"> </span></button>  
+                <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
+                        
+                        <li>@Html.ActionLink("Home","Index","Home")</li>
+                        
+                        @foreach( var item in Model)
+                           {
+                               <li>  @Html.ActionLink(item.Nazwa,"Index", "Oferta", new {id=item.IdOferty},null);</li>
+                           }
+
+                        <li> <a asp-action="Index" asp-controller="Koszyk" >Koszyk</a> </li>
+                    </ul>
+                   
+                </div>
+           </div>

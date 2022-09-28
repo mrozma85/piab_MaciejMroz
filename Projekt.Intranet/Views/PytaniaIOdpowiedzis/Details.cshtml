@@ -1,0 +1,48 @@
+﻿@model Projekt.Data.Data.CMS.PytaniaIOdpowiedzi
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>PytaniaIOdpowiedzi</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LinkPytaniaIOdpowiedzi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LinkPytaniaIOdpowiedzi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TytulPytaniaIOdpowiedzi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TytulPytaniaIOdpowiedzi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TrescPytaniaIOdpowiedzi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TrescPytaniaIOdpowiedzi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TytulGlownyPytaniaIOdpowiedzi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TytulGlownyPytaniaIOdpowiedzi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Pozycja)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pozycja)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdPytaniaIOdpowiedzi">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

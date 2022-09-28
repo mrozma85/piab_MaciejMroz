@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Projekt.Data.Data.Oferta.Oferta>
+
+<div class="container"><a class="navbar-brand" href="Index.html"></a>                
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"> </span></button>  
+                <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
+                        <li class="nav-item px-2"><a class="nav-link fw-medium active" asp-area="" asp-controller="Home" asp-action="Index">Strona główna</a></li>
+
+                        @foreach( var item in Model)
+                        {
+
+                        <li class="nav-item px-2"><a class="nav-link fw-medium active" @Html.ActionLink(item.Nazwa,"Index","Oferta",new {id=item.IdOferty},null)></a></li>
+                        }
+
+                        <li class="nav-item px-2"><a class="nav-link fw-medium active" asp-action="Index" asp-controller="Koszyk" >Koszyk</a> </li>
+                        <form class="ps-lg-5"><a class="nav-link fw-medium active" asp-area="" asp-controller="Oferta" asp-action="Index">USŁUGI PRZESYŁKOWE</a></form>
+                    </ul>
+                   
+                </div>
+</div>

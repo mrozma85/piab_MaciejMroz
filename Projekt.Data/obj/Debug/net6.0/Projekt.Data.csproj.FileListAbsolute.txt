@@ -1,0 +1,24 @@
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.csproj.AssemblyReference.cache
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.AssemblyInfoInputs.cache
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.AssemblyInfo.cs
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.csproj.CoreCompileInputs.cache
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\bin\Debug\net6.0\Projekt.Data.deps.json
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\bin\Debug\net6.0\Projekt.Data.dll
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\bin\Debug\net6.0\Projekt.Data.pdb
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.dll
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\refint\Projekt.Data.dll
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.pdb
+C:\Users\mrozm\Desktop\Visual\Projekt\Projekt.Data\obj\Debug\net6.0\ref\Projekt.Data.dll
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\bin\Debug\net6.0\Projekt.Data.deps.json
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\bin\Debug\net6.0\Projekt.Data.dll
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\bin\Debug\net6.0\Projekt.Data.pdb
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.csproj.AssemblyReference.cache
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.AssemblyInfoInputs.cache
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.AssemblyInfo.cs
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.csproj.CoreCompileInputs.cache
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.dll
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\refint\Projekt.Data.dll
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\Projekt.Data.pdb
+C:\Users\mrozm\Desktop\Semestr 6\Programowanie internetowych aplikacji biznesowych\visual\Projekt\Projekt.Data\obj\Debug\net6.0\ref\Projekt.Data.dll

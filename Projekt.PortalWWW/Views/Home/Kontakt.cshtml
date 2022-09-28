@@ -1,0 +1,50 @@
+﻿@model Projekt.Data.Data.CMS.Kontakt
+
+<section id="kontakt">
+        <div class="bg-holder" style="background-image:url(~/lib/traffico/public/assets/img/gallery/footer-bg.png);background-position:left;background-size:contain;padding:5px 3px;">
+        </div>
+        <!--/.bg-holder-->
+
+        <div class="container">
+          <div class="row min-vh-lg-50 min-vh-xl-75">
+            <div class="col-lg-6 col-xl-5 my-2 py-9 d-none d-lg-block">
+              <div class="card card-span bg-transparent border-start border-primary border-5 mt-3">
+                <div class="card-body">
+                  <p class="my-5 fs-1 pe-xl-8"> @Model.TrescKontaktu </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 col-xl-5 mb-3">
+              <div class="card card-span shadow py-4 px-5">
+                <div class="card-body">
+                  <form class="row g-3 align-items-center">
+                    <div class="mb-3">
+                      <label class="form-label" for="formGroupExampleInput">Imię</label>
+                      <input class="form-control form-traffico-control" id="formGroupExampleInput" type="text" placeholder="Imię" />
+                    </div>
+                    <div class="mb-3">
+                      <label class="form-label" for="formGroupExampleInput2">Email</label>
+                      <input class="form-control form-traffico-control" id="formGroupExampleInput2" type="text" placeholder="Twój email adres" />
+                    </div>
+                    <div class="mb-3">
+                      <label class="form-label" for="formGroupExampleInput2">Telefon</label>
+                      <input class="form-control form-traffico-control" id="formGroupExampleInput2" type="text" placeholder="Twój telefon" />
+                    </div>
+                    <div class="mb-3">
+                      <label class="form-label" for="formGroupExampleInput2">Wiadomość</label>
+                      <input class="form-control form-traffico-control" id="formGroupExampleInput2" type="text" placeholder="Wpisz wiadomość" />
+                    </div>
+                    <div class="col-12">
+                      <button class="btn btn-primary" type="submit">Prześlij
+                        <svg class="bi bi-arrow-right ms-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                          <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
+                        </svg>
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+</section>

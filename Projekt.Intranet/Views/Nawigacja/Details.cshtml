@@ -1,0 +1,42 @@
+﻿@model Projekt.Data.Data.CMS.Nawigacja
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Nawigacja</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LinkNawigacji)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LinkNawigacji)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TytulNawigacji)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TytulNawigacji)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TrescNawigacji)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TrescNawigacji)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Pozycja)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pozycja)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdNawigacji">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

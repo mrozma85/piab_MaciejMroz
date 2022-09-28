@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Projekt.Data.Data.CMS.Opinie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LinkOpini)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Naglowek1Opini)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Naglowek2Opini)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImieINazwiskoDodajacego)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrescOpini)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pozycja)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LinkOpini)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Naglowek1Opini)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Naglowek2Opini)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImieINazwiskoDodajacego)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrescOpini)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pozycja)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdOpini">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdOpini">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdOpini">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

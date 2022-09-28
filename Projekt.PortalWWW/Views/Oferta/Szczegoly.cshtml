@@ -1,0 +1,18 @@
+﻿@model Projekt.Data.Data.Oferta.RodzajTransportu
+@{
+    ViewData["Title"] = "Szczegoly";
+}
+
+<div>
+    Foto
+</div>
+<div>
+    @Model.Nazwa
+</div>
+<div>
+    Cena: @Model.Cena.ToString("0.00");
+</div>
+<div>
+    <a asp-action="DodajDoKoszyka" asp-controller="Koszyk" asp-route-id="@Model.IdRodzajuTransportu"> Dodaj do koszyka </a>
+    @Html.ActionLink("DodajDoKoszyka", "DodajDoKoszyka", "Koszyk", new { id = Model.IdRodzajuTransportu }, "")
+</div>

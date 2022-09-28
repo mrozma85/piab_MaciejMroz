@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zabex | Transport Polska - Irlandia</title>
+    
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Projekt.PortalWWW.styles.css" asp-append-version="true" />
+    <link href="~/lib/traffico/public/assets/css/theme.css" rel="stylesheet" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="~/lib/traffico/public/assets/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/lib/traffico/public/assets/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/lib/traffico/public/assets/img/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/x-icon" href="~/lib/traffico/public/assets/img/favicons/favicon.ico">
+    <link rel="manifest" href="~/lib/traffico/public/assets/img/favicons/manifest.json">
+    <meta name="msapplication-TileImage" content="~/lib/traffico/public/assets/img/favicons/mstile-150x150.png">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>   
+    <nav class="navbar navbar-expand-sm bg-danger navbar-dark" data-navbar-on-scroll="data-navbar-on-scroll">
+        @await Html.PartialAsync("NawigacjaLinki",(IEnumerable<Projekt.Data.Data.CMS.Nawigacja>)ViewBag.ModelNawigacji)
+    </nav>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="py-5">
+        <div class="container">
+            <div class="row flex-center">
+            <div class="col-md-6 col-xl-8 order-0">
+              <p class="text-center text-md-start">© 2022 Zabex Transport Polska - Irlandia | Wszystkie prawa zastrzeżone, 2022</p>
+            </div>
+            <div class="col-md-6 col-xl-3 order-1">
+              <ul class="list-unstyled list-inline mb-6 mb-md-0 text-center text-md-end text-xl-start">
+                  <li class="list-inline-item mr-2"><a class="text-decoration-none" href="#!"><img class="list-social-icon" src="~/lib/traffico/public/assets/img/icons/i.png" alt="..." /></a></li>
+                <li class="list-inline-item mr-2"><a class="text-decoration-none" href="#!"><img class="list-social-icon" src="~/lib/traffico/public/assets/img/icons/t.png" alt="..." /></a>
+                <li class="list-inline-item mr-2"><a class="text-decoration-none" href="https://www.facebook.com/ZabexPolska/"><img class="list-social-icon" src="~/lib/traffico/public/assets/img/icons/f.png" alt="..." /> </a></li>
+              </ul>
+            </div>
+          </div>
+          </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script src="~/lib/traffico/public/vendors/popperjs/popper.min.js"></script>
+    <script src="~/lib/traffico/public/vendors/is/is.min.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
+    <script src="~/lib/traffico/public/vendors/fontawesome/all.min.js"></script>
+    <script src="~/lib/traffico/public/assets/js/theme.js"></script>
+</body>
+</html>
